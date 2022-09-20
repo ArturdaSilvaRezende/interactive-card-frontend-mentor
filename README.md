@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github](https://github.com/ArturdaSilvaRezende/interactive-card-frontend-mentor)
-- Live Site URL: [interactive-card](https://interactive-card-frontend-mentor.netlify.app//)
+- Live Site URL: [interactive-card](https://interactive-card-frontend.netlify.app/)
 
 ## My process
 
